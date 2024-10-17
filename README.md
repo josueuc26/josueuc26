@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Josué Uceda
 
-![Cover](./coverimage2.JPG)
-
 🌍 **Data Scientist with an Environmental Engineering twist** 💡📊  
 Passionate about data and its impact! Leveraging a strong background in environmental engineering to deliver data-driven solutions that optimize processes and drive organizational success.
 
