@@ -48,7 +48,7 @@ I am a Data Scientist with a solid foundation in Environmental Engineering. With
 
 Explore my projects and detailed portfolio to see how I apply data science techniques to solve real-world problems:
 
-- 🔗 [DataCamp Portfolio](https://www.datacamp.com/your-portfolio-link)
+- 🔗 [DataCamp Portfolio](https://www.datacamp.com/portfolio/josueuceda26)
 - 🛠️ [GitHub Repositories](https://github.com/josueuc26)
 
 ---
