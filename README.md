@@ -57,7 +57,7 @@ Explore my projects and detailed portfolio to see how I apply data science techn
 
 I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
 
-- 📧 Email: [josueuceda26@gmail.com](mailto:josueuceda26@gmail.com)
+- 📧 [e-mail](mailto:josueuceda26@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/josue-uceda)
 
 ---
